@@ -1,0 +1,18 @@
+* {
+    font-family: Verdana, Tahoma;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#header-desc {
+    margin: 0 5px 5px 0;
+}
+
+#img-div {
+    background-color: #d0d0d5
+}

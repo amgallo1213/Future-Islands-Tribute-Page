@@ -8,11 +8,21 @@
     height: auto;
     margin: auto;
 }
-
+h1{
+    text-align: center;
+}
 #header-desc {
-    margin: 0 5px 5px 0;
+    text-align: center;
 }
 
 #img-div {
-    background-color: #d0d0d5
+    background-color: #d0d0d5;
+    width: 70%;
+    padding: 20px;
+    margin: auto;
+}
+#img-caption    {
+    text-align: center;
+    font-size: 0.75em;
+    padding-top: 3px; 
 }

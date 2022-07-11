@@ -29,9 +29,16 @@ h1{
     font-size: 0.75em;
     padding-top: 3px; 
 }
+#link-div   {
+    text-align: center;
+    width: 100%;
+    height: 35px;
+    background-color: #d0d0d5;
+}
 #tribute-link   {
     color: #1b1b32;
     text-decoration: none;
+
 }
 #tribute-link:hover{
     color: #F62B21;

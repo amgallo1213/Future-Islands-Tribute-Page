@@ -31,8 +31,9 @@ h1{
 }
 #link-div   {
     text-align: center;
-    width: 100%;
+    width: 80%;
     height: 35px;
+    margin-left: 110px;
     background-color: #d0d0d5;
 }
 #tribute-link   {
@@ -43,4 +44,14 @@ h1{
 #tribute-link:hover{
     color: #F62B21;
     cursor: pointer;
+}
+body  {
+    background-color: #ededef;
+}
+p   {
+    width: 80%;
+    margin-left: 120px;
+}
+#p-1    {
+    margin-top: 10;
 }

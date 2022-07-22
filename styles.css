@@ -1,5 +1,7 @@
 * {
     font-family: Verdana, Tahoma;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 #image {
@@ -39,6 +41,7 @@ h1{
 #tribute-link   {
     color: #1b1b32;
     text-decoration: none;
+    padding-top: 10px;
 
 }
 #tribute-link:hover{
@@ -54,4 +57,8 @@ p   {
 }
 #p-1    {
     margin-top: 10;
+}
+#video  {
+    margin-left: 400px;
+    padding: 20px;
 }

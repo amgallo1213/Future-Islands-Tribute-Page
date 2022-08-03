@@ -1,7 +1,7 @@
 * {
     font-family: Verdana, Tahoma;
     box-sizing: border-box;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 #image {
